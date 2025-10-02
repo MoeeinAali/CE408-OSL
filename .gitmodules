@@ -28,3 +28,33 @@
 [submodule "path/to/Experiment10"]
 	path = path/to/Experiment10
 	url = https://github.com/CE408-OSL/Experiment02
+[submodule "Experiment01"]
+	path = Experiment01
+	url = https://github.com/CE408-OSL/Experiment01
+[submodule "Experiment02"]
+	path = Experiment02
+	url = https://github.com/CE408-OSL/Experiment02
+[submodule "Experiment03"]
+	path = Experiment03
+	url = https://github.com/CE408-OSL/Experiment03
+[submodule "Experiment04"]
+	path = Experiment04
+	url = https://github.com/CE408-OSL/Experiment04
+[submodule "Experiment05"]
+	path = Experiment05
+	url = https://github.com/CE408-OSL/Experiment05
+[submodule "Experiment06"]
+	path = Experiment06
+	url = https://github.com/CE408-OSL/Experiment06
+[submodule "Experiment07"]
+	path = Experiment07
+	url = https://github.com/CE408-OSL/Experiment07
+[submodule "Experiment08"]
+	path = Experiment08
+	url = https://github.com/CE408-OSL/Experiment08
+[submodule "Experiment09"]
+	path = Experiment09
+	url = https://github.com/CE408-OSL/Experiment09
+[submodule "Experiment10"]
+	path = Experiment10
+	url = https://github.com/CE408-OSL/Experiment10
